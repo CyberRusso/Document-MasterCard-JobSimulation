@@ -10,10 +10,13 @@ Completed a phishing simulation project designed to evaluate both offensive and 
 ## Tasks Completed
 Phishing Email Design:
 - Created a realistic phishing email that mimicked internal communication using believable pretexting techniques. The content was crafted to bypass casual scrutiny and trigger employee interaction.
+
 Campaign Planning:
 - Structured the phishing campaign by defining objectives, selecting a target audience, determining timing for maximum engagement, and outlining key metrics for measurement. Ensured ethical boundaries and awareness-focused intent were maintained.
+
 Performance Analysis:
 - Interpreted simulated user interaction data to identify trends in user susceptibility and weak points in the human security layer.
+
 Security Awareness Recommendations:
 - Drafted follow-up recommendations for improved employee training. Emphasized role-based training, phishing recognition tips, and a culture of security mindfulness.
 
